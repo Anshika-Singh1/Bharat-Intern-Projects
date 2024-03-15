@@ -6,7 +6,7 @@
 This project is part of an internship at Bharat Intern. Bharat Intern provides opportunities for students and professionals to gain practical experience in various fields through internships and projects. 
 
 <p align="center">
-  <img src="https://toppng.com/uploads/preview/netflix-logo-png-download-11660600814vkfgjh8swu.png" alt="Animated GIF" width="200">
+  <img src="https://t3.ftcdn.net/jpg/04/81/76/22/360_F_481762281_Xcvl3QsGh1pBMvQuyKIoIqq8aYksXEwX.jpg" alt="Animated GIF" width="200">
 </p>
 
 # 1.Netflix Clone Project
