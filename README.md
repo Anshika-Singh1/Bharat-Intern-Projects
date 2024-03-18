@@ -11,6 +11,7 @@ This project is part of an internship at Bharat Intern. Bharat Intern provides o
 
 # 1.Netflix Clone Project
 This project is a clone of the popular streaming platform Netflix. 
+[Live Demo :- ](https://anshikasingh.netlify.app/)
 
 ## Features 
 - User authentication (signup, login, logout)
@@ -40,8 +41,9 @@ Welcome to the Weather Website repository! This project is a simple website that
   <img src="https://github.com/Anshika-Singh1/Bharat-Intern-Projects/assets/163335234/faf65534-3542-4aa7-be63-8e9072479c92" alt="Animated GIF" width="200">
 </p> 
 
-# 3.Anshika Singh Portfolio 
+  # [3.Anshika Singh Portfolio](https://anshikasingh.netlify.app/)
 Welcome to my portfolio! Here you'll find information about me, my skills, projects, and more.
+[Live Demo :- ](https://anshikasingh.netlify.app/)
 
 ## Technologies Used :- 
 - HTML, CSS, JavaScript for frontend development.
