@@ -41,7 +41,7 @@ Welcome to the Weather Website repository! This project is a simple website that
   
 
 <p align="center">
-  <img src="https://github.com/Anshika-Singh1/Bharat-Intern-Projects/assets/163335234/faf65534-3542-4aa7-be63-8e9072479c92" alt="Animated GIF" width="200">
+  <img src="https://github.com/Anshika-Singh1/Bharat-Intern-Projects/assets/163335234/faf65534-3542-4aa7-be63-8e9072479c92" alt="Animated GIF" width="400">
 </p> 
 
   # [3.Anshika Singh Portfolio](https://anshikasingh.netlify.app/)
