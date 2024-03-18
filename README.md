@@ -34,3 +34,13 @@ Welcome to the Weather Website repository! This project is a simple website that
 ## Technologies Used :- 
 - HTML, CSS, JavaScript for frontend development.
 - APIs (e.g., OpenWeatherMap API) for fetching weather data
+
+<p align="center">
+  <img src="https://github.com/Anshika-Singh1/Bharat-Intern-Projects/assets/163335234/faf65534-3542-4aa7-be63-8e9072479c92" alt="Animated GIF" width="200">
+</p> 
+# 3. Anshika Singh Portfolio 
+Welcome to my portfolio! Here you'll find information about me, my skills, projects, and more.
+
+## About Me 
+I am a passionate [Web Developer] with a focus on [Front-end and backend]. I enjoy working on challenging projects and leveraging innovative technologies to solve problems.
+
