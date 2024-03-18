@@ -48,7 +48,8 @@ Welcome to my portfolio! Here you'll find information about me, my skills, proje
 - APIs (e.g., OpenWeatherMap API) for fetching weather data
 
 ## About Me 
-I am a passionate [Web Developer] with a focus on [Front-end and backend]. I enjoy working on challenging projects and leveraging innovative technologies to solve problems.
+I am a passionate Web Developer with a focus on Front-end and backend. I enjoy working on challenging projects and leveraging innovative technologies to solve problems.
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio🥰
+
 
